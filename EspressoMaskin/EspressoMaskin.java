@@ -1,0 +1,5 @@
+class EspressoMaskin{
+    public EspressoMaskin(){
+        
+    }
+}
